@@ -1,0 +1,4 @@
+order_id,order_date,product,category,quantity,price,customer_id,city,total_amount
+1001,2026-11-01,Laptop,Electronics,2,55000.0,C101,Pune,110000.0
+1002,2026-11-01,Mouse,Electronics,5,800.0,C102,Mumbai,4000.0
+1003,2026-11-02,Chair,Furniture,2,4500.0,C103,Nashik,9000.0

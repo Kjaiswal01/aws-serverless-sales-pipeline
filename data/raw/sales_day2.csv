@@ -1,0 +1,5 @@
+order_id,order_date,product,category,quantity,price,customer_id,city
+2001,2026-11-04,Tablet,Electronics,3,22000,C201,Pune
+2002,2026-11-04,Desk,Furniture,1,12500,C202,mumbai
+2003,2026-11-05,Headphones,Electronics,0,2500,C203,Delhi
+2004,2026-11-05,Webcam,Electronics,2,3200,C204,Bengaluru

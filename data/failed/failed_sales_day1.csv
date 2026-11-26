@@ -1,0 +1,3 @@
+order_id,order_date,product,category,quantity,price,customer_id,city
+1004,2026-11-02,Keyboard,Electronics,-1,1500.0,C104,Pune
+1005,2026-11-03,Monitor,Electronics,1,,C105,Nagpur
